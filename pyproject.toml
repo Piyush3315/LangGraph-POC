@@ -1,0 +1,16 @@
+[project]
+name = "mna-lang-workflow"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "httpx>=0.28.1",
+    "langchain>=0.3.27",
+    "langchain-google-genai>=2.1.10",
+    "langgraph>=0.6.7",
+    "mcp[cli]>=1.13.1",
+    "pandas>=2.3.3",
+    "python-dotenv>=1.1.1",
+    "websockets>=15.0.1",
+]

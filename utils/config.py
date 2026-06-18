@@ -1,0 +1,2 @@
+MCP_SERVER_URL = "http://127.0.0.1:8050/sse"
+MCP_SERVER_HTTP_URL = "http://127.0.0.1:8050"
